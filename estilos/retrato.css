@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/*Tela em pé (portrait) */
+
+body {
+    background: url(../imagens/cev-portrait.jpg);
+    background-position: left center;
+}
